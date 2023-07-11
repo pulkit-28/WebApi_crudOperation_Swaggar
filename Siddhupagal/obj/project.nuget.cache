@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iI67dn0OvZ/nsUZWnFfMrVkkGtTNq18Sm4bt1Ti/hlt/qa0wGa5Fx03M6HcyVDETuOma+l5+U5PSeZsZvUM80A==",
+  "dgSpecHash": "OaggDU8trIdcicTppoWsPPS/fOaGMV+7PX5VKw2tFzbxQgld3zR11ba3qxxQs7BU/QC/Kv6N/HNF9fwwdRYdVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pulki\\source\\repos\\Siddhupagal\\Siddhupagal\\Siddhupagal.csproj",
+  "projectFilePath": "C:\\Users\\pulki\\source\\repos\\Siddhupagal\\Pulkit\\Siddhupagal\\WEBAPIPROJECT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pulki\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\pulki\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

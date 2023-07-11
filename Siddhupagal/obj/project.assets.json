@@ -3504,11 +3504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pulki\\source\\repos\\Siddhupagal\\Siddhupagal\\Siddhupagal.csproj",
-      "projectName": "Siddhupagal",
-      "projectPath": "C:\\Users\\pulki\\source\\repos\\Siddhupagal\\Siddhupagal\\Siddhupagal.csproj",
+      "projectUniqueName": "C:\\Users\\pulki\\source\\repos\\Siddhupagal\\Pulkit\\Siddhupagal\\WEBAPIPROJECT.csproj",
+      "projectName": "WEBAPIPROJECT",
+      "projectPath": "C:\\Users\\pulki\\source\\repos\\Siddhupagal\\Pulkit\\Siddhupagal\\WEBAPIPROJECT.csproj",
       "packagesPath": "C:\\Users\\pulki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pulki\\source\\repos\\Siddhupagal\\Siddhupagal\\obj\\",
+      "outputPath": "C:\\Users\\pulki\\source\\repos\\Siddhupagal\\Pulkit\\Siddhupagal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pulki\\AppData\\Roaming\\NuGet\\NuGet.Config",
